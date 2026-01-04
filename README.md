@@ -1,8 +1,8 @@
 # minishell
 
-Un mini shell ecrit en C pour le projet 42. L'objectif est de reproduire les
-comportements essentiels d'un shell POSIX: parsing, expansions, pipes,
-redirections et commandes internes.
+Un mini shell ecrit en C dans le cadre du tronc commun du cursus de l'école 42.
+L'objectif est de reproduire les comportements essentiels d'un shell POSIX:
+parsing, expansions, pipes, redirections et commandes internes.
 
 Janvier 2026 : Ajout d'un dockerfile pour faciliter la compilation et l'execution sur tous
 les systèmes grace à un environnement Debian standardise.
